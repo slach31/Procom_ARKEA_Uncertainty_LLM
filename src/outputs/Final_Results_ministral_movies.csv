@@ -1,0 +1,2 @@
+model,dataset,ROC-AUC,PR-AUC,Accuracy,Mean EPR (Correct),Mean EPR (Incorrect)
+ministral/Ministral-3b-instruct,movies,0.4296888888888889,0.46398482702549815,0.4866666666666667,0.33206384608826967,0.29605170678441

@@ -1,0 +1,2 @@
+model,dataset,ROC-AUC,PR-AUC,Accuracy,Mean EPR (Correct),Mean EPR (Incorrect)
+ministral/Ministral-3b-instruct,toxic,0.5136000000000001,0.5119080467688755,0.47333333333333333,0.3641349509239881,0.3508251663381294
