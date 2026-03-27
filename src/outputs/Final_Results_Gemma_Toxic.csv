@@ -1,2 +1,0 @@
-model,dataset,ROC-AUC,PR-AUC,Accuracy,Mean EPR (Correct),Mean EPR (Incorrect)
-google/gemma-3-1b-it,toxic,0.6274666666666666,0.6151516261141434,0.5,0.26629798285416945,0.30402470635597445
