@@ -1,4 +1,4 @@
-# Évaluation des LLM et expériences EPR
+# Évaluation des LLM via EPR et LLM as a Judge
 
 Ce dépôt contient plusieurs notebooks explorant l’évaluation par modèles de langage (LLM-as-a-Judge) ainsi que les méthodes EPR / WEPR sur différents jeux de données et modèles.
 
